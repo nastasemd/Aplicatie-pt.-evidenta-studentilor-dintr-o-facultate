@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="studentiDS" targetNamespace="http://tempuri.org/studentiDS.xsd" xmlns:mstns="http://tempuri.org/studentiDS.xsd" xmlns="http://tempuri.org/studentiDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proiectConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proiectConnectionString (Settings)" PropertyReference="ApplicationSettings.NichiforVlad.Properties.Settings.GlobalReference.Default.proiectConnectionString" Provider="System.Data.OleDb" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proiectConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proiectConnectionString1 (Settings)" PropertyReference="ApplicationSettings.NichiforVlad.Properties.Settings.GlobalReference.Default.proiectConnectionString1" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="PersoaneTableAdapter" GeneratorDataComponentClassName="PersoaneTableAdapter" Name="Persoane" UserDataComponentName="PersoaneTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proiectConnectionString1 (Settings)" DbObjectName="Persoane" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        nume, cnp, id_persoana
+FROM            Persoane</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="nume" DataSetColumn="nume" />
+              <Mapping SourceColumn="id_persoana" DataSetColumn="id_persoana" />
+              <Mapping SourceColumn="cnp" DataSetColumn="cnp1" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="studentiDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="studentiDS" msprop:Generator_UserDSName="studentiDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="Persoane" msprop:Generator_TableClassName="PersoaneDataTable" msprop:Generator_TableVarName="tablePersoane" msprop:Generator_RowChangedName="PersoaneRowChanged" msprop:Generator_TablePropName="Persoane" msprop:Generator_RowDeletingName="PersoaneRowDeleting" msprop:Generator_RowChangingName="PersoaneRowChanging" msprop:Generator_RowEvHandlerName="PersoaneRowChangeEventHandler" msprop:Generator_RowDeletedName="PersoaneRowDeleted" msprop:Generator_RowClassName="PersoaneRow" msprop:Generator_UserTableName="Persoane" msprop:Generator_RowEvArgName="PersoaneRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="nume" msprop:Generator_ColumnVarNameInTable="columnnume" msprop:Generator_ColumnPropNameInRow="nume" msprop:Generator_ColumnPropNameInTable="numeColumn" msprop:Generator_UserColumnName="nume" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="cnp" msprop:Generator_ColumnVarNameInTable="columncnp" msprop:Generator_ColumnPropNameInRow="cnp" msprop:Generator_ColumnPropNameInTable="cnpColumn" msprop:Generator_UserColumnName="cnp" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="id_persoana" msdata:AutoIncrement="true" msdata:AutoIncrementSeed="-1" msdata:AutoIncrementStep="-1" msprop:Generator_ColumnVarNameInTable="columnid_persoana" msprop:Generator_ColumnPropNameInRow="id_persoana" msprop:Generator_ColumnPropNameInTable="id_persoanaColumn" msprop:Generator_UserColumnName="id_persoana" type="xs:int" />
+              <xs:element name="cnp1" msdata:Caption="cnp" msprop:Generator_ColumnVarNameInTable="columncnp1" msprop:Generator_ColumnPropNameInRow="cnp1" msprop:Generator_ColumnPropNameInTable="cnp1Column" msprop:Generator_UserColumnName="cnp1" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:Persoane" />
+      <xs:field xpath="mstns:id_persoana" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

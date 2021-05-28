@@ -1,0 +1,318 @@
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe.config
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.pdb
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csprojAssemblyReference.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Form1.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Properties.Resources.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.GenerateResource.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.pdb
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe.config
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.pdb
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\EnvDTE.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\stdole.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.MSXML.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csprojAssemblyReference.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Properties.Resources.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.GenerateResource.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\RdlCompile.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\RdlCompile.compiled
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CopyComplete
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.pdb
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Start.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportTransferuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportAbandonuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v2\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.BalantaStudenti.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe.config
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.pdb
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\EnvDTE.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\stdole.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.MSXML.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csprojAssemblyReference.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.BalantaStudenti.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportTransferuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportAbandonuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Start.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Properties.Resources.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.GenerateResource.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\RdlCompile.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\RdlCompile.compiled
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CopyComplete
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.pdb
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe.config
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.pdb
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\EnvDTE.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\stdole.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.BalantaStudenti.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportTransferuri.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportAbandonuri.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Start.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Properties.Resources.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.GenerateResource.cache
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CoreCompileInputs.cache
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CopyComplete
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.exe
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.pdb
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csprojAssemblyReference.cache
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Abandon.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Transfer.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Studenti.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.AniUniversitari.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Specializari.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.GraficAbandonuri.resources
+C:\Users\Da\OneDrive\Documente\MPP\proiect_MPP_v3\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.GraficTransferuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe.config
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\NichiforVlad.pdb
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\EnvDTE.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\stdole.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\Microsoft.MSXML.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csprojAssemblyReference.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Abandon.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.AniUniversitari.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.BalantaStudenti.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.GraficAbandonuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.GraficTransferuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportTransferuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.RaportAbandonuri.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Specializari.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Start.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Properties.Resources.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Studenti.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.Transfer.resources
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.GenerateResource.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\RdlCompile.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\RdlCompile.compiled
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CoreCompileInputs.cache
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.csproj.CopyComplete
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.exe
+D:\Facultate\An III\SEM 2\MMP\proiect\proiect\NichiforVlad\NichiforVlad\obj\Debug\NichiforVlad.pdb

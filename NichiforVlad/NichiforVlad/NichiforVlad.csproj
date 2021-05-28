@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E4389E06-821C-42B3-8339-BCCB266B4B58}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>NichiforVlad</RootNamespace>
+    <AssemblyName>NichiforVlad</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1449.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Abandon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Abandon.Designer.cs">
+      <DependentUpon>Abandon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="abandonDS.cs">
+      <DependentUpon>abandonDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="abandonDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>abandonDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="AniUniversitari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AniUniversitari.Designer.cs">
+      <DependentUpon>AniUniversitari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="anUniversitarDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>anUniversitarDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Calcule.cs" />
+    <Compile Include="DataSet2.cs">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.cs">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="BalantaStudenti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BalantaStudenti.Designer.cs">
+      <DependentUpon>BalantaStudenti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="graficAbandonDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>graficAbandonDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GraficAbandonuri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraficAbandonuri.Designer.cs">
+      <DependentUpon>GraficAbandonuri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="graficTransferDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>graficTransferDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GraficTransferuri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GraficTransferuri.Designer.cs">
+      <DependentUpon>GraficTransferuri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaportTransferuri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaportTransferuri.Designer.cs">
+      <DependentUpon>RaportTransferuri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RaportAbandonuri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RaportAbandonuri.Designer.cs">
+      <DependentUpon>RaportAbandonuri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Specializari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Specializari.Designer.cs">
+      <DependentUpon>Specializari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="specializariDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>specializariDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Start.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Start.Designer.cs">
+      <DependentUpon>Start.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Studenti.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Studenti.Designer.cs">
+      <DependentUpon>Studenti.cs</DependentUpon>
+    </Compile>
+    <Compile Include="studentiDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>studentiDS.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Transfer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transfer.Designer.cs">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="transferDS.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>transferDS.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Abandon.resx">
+      <DependentUpon>Abandon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AniUniversitari.resx">
+      <DependentUpon>AniUniversitari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BalantaStudenti.resx">
+      <DependentUpon>BalantaStudenti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraficAbandonuri.resx">
+      <DependentUpon>GraficAbandonuri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GraficTransferuri.resx">
+      <DependentUpon>GraficTransferuri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaportTransferuri.resx">
+      <DependentUpon>RaportTransferuri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RaportAbandonuri.resx">
+      <DependentUpon>RaportAbandonuri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Specializari.resx">
+      <DependentUpon>Specializari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Start.resx">
+      <DependentUpon>Start.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Studenti.resx">
+      <DependentUpon>Studenti.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Transfer.resx">
+      <DependentUpon>Transfer.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="abandonDS.xsc">
+      <DependentUpon>abandonDS.xsd</DependentUpon>
+    </None>
+    <None Include="abandonDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>abandonDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="abandonDS.xss">
+      <DependentUpon>abandonDS.xsd</DependentUpon>
+    </None>
+    <None Include="anUniversitarDS.xsc">
+      <DependentUpon>anUniversitarDS.xsd</DependentUpon>
+    </None>
+    <None Include="anUniversitarDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>anUniversitarDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="anUniversitarDS.xss">
+      <DependentUpon>anUniversitarDS.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="graficAbandonDS.xsc">
+      <DependentUpon>graficAbandonDS.xsd</DependentUpon>
+    </None>
+    <None Include="graficAbandonDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>graficAbandonDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="graficAbandonDS.xss">
+      <DependentUpon>graficAbandonDS.xsd</DependentUpon>
+    </None>
+    <None Include="graficTransferDS.xsc">
+      <DependentUpon>graficTransferDS.xsd</DependentUpon>
+    </None>
+    <None Include="graficTransferDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>graficTransferDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="graficTransferDS.xss">
+      <DependentUpon>graficTransferDS.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="specializariDS.xsc">
+      <DependentUpon>specializariDS.xsd</DependentUpon>
+    </None>
+    <None Include="specializariDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>specializariDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="specializariDS.xss">
+      <DependentUpon>specializariDS.xsd</DependentUpon>
+    </None>
+    <None Include="studentiDS.xsc">
+      <DependentUpon>studentiDS.xsd</DependentUpon>
+    </None>
+    <None Include="studentiDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>studentiDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="studentiDS.xss">
+      <DependentUpon>studentiDS.xsd</DependentUpon>
+    </None>
+    <None Include="transferDS.xsc">
+      <DependentUpon>transferDS.xsd</DependentUpon>
+    </None>
+    <None Include="transferDS.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>transferDS.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="transferDS.xss">
+      <DependentUpon>transferDS.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

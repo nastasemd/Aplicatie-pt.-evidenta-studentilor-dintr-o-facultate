@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet3" targetNamespace="http://tempuri.org/DataSet3.xsd" xmlns:mstns="http://tempuri.org/DataSet3.xsd" xmlns="http://tempuri.org/DataSet3.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proiectConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proiectConnectionString (Settings)" PropertyReference="ApplicationSettings.NichiforVlad.Properties.Settings.GlobalReference.Default.proiectConnectionString" Provider="System.Data.OleDb" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proiectConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proiectConnectionString1 (Settings)" PropertyReference="ApplicationSettings.NichiforVlad.Properties.Settings.GlobalReference.Default.proiectConnectionString1" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="CalculStudenti2TableAdapter" GeneratorDataComponentClassName="CalculStudenti2TableAdapter" Name="CalculStudenti2" UserDataComponentName="CalculStudenti2TableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proiectConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        CalculStudenti2.id_operatie, CalculStudenti2.data_inceput_an, CalculStudenti2.data_sfarsit_an, CalculStudenti2.data_eveniment, CalculStudenti2.id_specializare, CalculStudenti2.an_specializare, 
+                         CalculStudenti2.numar_studenti, Operatii.denumire AS operatii_denumire, Specializari.denumire AS specializari_denumire
+FROM            ((CalculStudenti2 INNER JOIN
+                         Operatii ON CalculStudenti2.id_operatie = Operatii.id_operatie) INNER JOIN
+                         Specializari ON CalculStudenti2.id_specializare = Specializari.id_specializare)
+ORDER BY CalculStudenti2.id_operatie, CalculStudenti2.data_inceput_an, CalculStudenti2.id_specializare, CalculStudenti2.an_specializare, CalculStudenti2.data_eveniment</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="id_operatie" DataSetColumn="id_operatie" />
+              <Mapping SourceColumn="data_inceput_an" DataSetColumn="data_inceput_an" />
+              <Mapping SourceColumn="data_sfarsit_an" DataSetColumn="data_sfarsit_an" />
+              <Mapping SourceColumn="data_eveniment" DataSetColumn="data_eveniment" />
+              <Mapping SourceColumn="id_specializare" DataSetColumn="id_specializare" />
+              <Mapping SourceColumn="an_specializare" DataSetColumn="an_specializare" />
+              <Mapping SourceColumn="numar_studenti" DataSetColumn="numar_studenti" />
+              <Mapping SourceColumn="operatii_denumire" DataSetColumn="operatii_denumire" />
+              <Mapping SourceColumn="specializari_denumire" DataSetColumn="specializari_denumire" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="BalantaTableAdapter" GeneratorDataComponentClassName="BalantaTableAdapter" Name="Balanta" UserDataComponentName="BalantaTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proiectConnectionString1 (Settings)" DbObjectType="Unknown" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        BalantaStudenti.data_inceput_an, BalantaStudenti.data_sfarsit_an, Specializari.denumire, Specializari.numar_ani, BalantaStudenti.an_specializare, BalantaStudenti.nr_studenti_initial, BalantaStudenti.nr_transferuri, 
+                         BalantaStudenti.nr_abandonuri, BalantaStudenti.nr_studenti_final, BalantaStudenti.id_specializare
+FROM            (BalantaStudenti LEFT OUTER JOIN
+                         Specializari ON BalantaStudenti.id_specializare = Specializari.id_specializare)
+ORDER BY BalantaStudenti.data_inceput_an, Specializari.denumire, BalantaStudenti.an_specializare</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="data_inceput_an" DataSetColumn="data_inceput_an" />
+              <Mapping SourceColumn="data_sfarsit_an" DataSetColumn="data_sfarsit_an" />
+              <Mapping SourceColumn="denumire" DataSetColumn="denumire" />
+              <Mapping SourceColumn="numar_ani" DataSetColumn="numar_ani" />
+              <Mapping SourceColumn="an_specializare" DataSetColumn="an_specializare" />
+              <Mapping SourceColumn="nr_studenti_initial" DataSetColumn="nr_studenti_initial" />
+              <Mapping SourceColumn="nr_transferuri" DataSetColumn="nr_transferuri" />
+              <Mapping SourceColumn="nr_abandonuri" DataSetColumn="nr_abandonuri" />
+              <Mapping SourceColumn="nr_studenti_final" DataSetColumn="nr_studenti_final" />
+              <Mapping SourceColumn="id_specializare" DataSetColumn="id_specializare" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="IntrariTableAdapter" GeneratorDataComponentClassName="IntrariTableAdapter" Name="Intrari" UserDataComponentName="IntrariTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proiectConnectionString1 (Settings)" DbObjectName="CalculStudenti2" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        data_inceput_an, data_sfarsit_an, id_specializare, an_specializare, SUM(numar_studenti) AS Total
+FROM            CalculStudenti2
+WHERE        (id_operatie = 2)
+GROUP BY data_inceput_an, data_sfarsit_an, id_specializare, an_specializare</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="data_inceput_an" DataSetColumn="data_inceput_an" />
+              <Mapping SourceColumn="data_sfarsit_an" DataSetColumn="data_sfarsit_an" />
+              <Mapping SourceColumn="id_specializare" DataSetColumn="id_specializare" />
+              <Mapping SourceColumn="an_specializare" DataSetColumn="an_specializare" />
+              <Mapping SourceColumn="Total" DataSetColumn="Total" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="IesiriTableAdapter" GeneratorDataComponentClassName="IesiriTableAdapter" Name="Iesiri" UserDataComponentName="IesiriTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proiectConnectionString1 (Settings)" DbObjectName="CalculStudenti2" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        data_inceput_an, data_sfarsit_an, id_specializare, an_specializare, SUM(numar_studenti) AS Total
+FROM            CalculStudenti2
+WHERE        (id_operatie = 3)
+GROUP BY data_inceput_an, data_sfarsit_an, id_specializare, an_specializare</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="data_inceput_an" DataSetColumn="data_inceput_an" />
+              <Mapping SourceColumn="data_sfarsit_an" DataSetColumn="data_sfarsit_an" />
+              <Mapping SourceColumn="id_specializare" DataSetColumn="id_specializare" />
+              <Mapping SourceColumn="an_specializare" DataSetColumn="an_specializare" />
+              <Mapping SourceColumn="Total" DataSetColumn="Total" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet3" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet3" msprop:Generator_UserDSName="DataSet3">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="CalculStudenti2" msprop:Generator_TableClassName="CalculStudenti2DataTable" msprop:Generator_TableVarName="tableCalculStudenti2" msprop:Generator_RowChangedName="CalculStudenti2RowChanged" msprop:Generator_TablePropName="CalculStudenti2" msprop:Generator_RowDeletingName="CalculStudenti2RowDeleting" msprop:Generator_RowChangingName="CalculStudenti2RowChanging" msprop:Generator_RowEvHandlerName="CalculStudenti2RowChangeEventHandler" msprop:Generator_RowDeletedName="CalculStudenti2RowDeleted" msprop:Generator_RowClassName="CalculStudenti2Row" msprop:Generator_UserTableName="CalculStudenti2" msprop:Generator_RowEvArgName="CalculStudenti2RowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_operatie" msprop:Generator_ColumnVarNameInTable="columnid_operatie" msprop:Generator_ColumnPropNameInRow="id_operatie" msprop:Generator_ColumnPropNameInTable="id_operatieColumn" msprop:Generator_UserColumnName="id_operatie" type="xs:int" minOccurs="0" />
+              <xs:element name="data_inceput_an" msprop:Generator_ColumnVarNameInTable="columndata_inceput_an" msprop:Generator_ColumnPropNameInRow="data_inceput_an" msprop:Generator_ColumnPropNameInTable="data_inceput_anColumn" msprop:Generator_UserColumnName="data_inceput_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="data_sfarsit_an" msprop:Generator_ColumnVarNameInTable="columndata_sfarsit_an" msprop:Generator_ColumnPropNameInRow="data_sfarsit_an" msprop:Generator_ColumnPropNameInTable="data_sfarsit_anColumn" msprop:Generator_UserColumnName="data_sfarsit_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="data_eveniment" msprop:Generator_ColumnVarNameInTable="columndata_eveniment" msprop:Generator_ColumnPropNameInRow="data_eveniment" msprop:Generator_ColumnPropNameInTable="data_evenimentColumn" msprop:Generator_UserColumnName="data_eveniment" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id_specializare" msprop:Generator_ColumnVarNameInTable="columnid_specializare" msprop:Generator_ColumnPropNameInRow="id_specializare" msprop:Generator_ColumnPropNameInTable="id_specializareColumn" msprop:Generator_UserColumnName="id_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="an_specializare" msprop:Generator_ColumnVarNameInTable="columnan_specializare" msprop:Generator_ColumnPropNameInRow="an_specializare" msprop:Generator_ColumnPropNameInTable="an_specializareColumn" msprop:Generator_UserColumnName="an_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="numar_studenti" msprop:Generator_ColumnVarNameInTable="columnnumar_studenti" msprop:Generator_ColumnPropNameInRow="numar_studenti" msprop:Generator_ColumnPropNameInTable="numar_studentiColumn" msprop:Generator_UserColumnName="numar_studenti" type="xs:int" minOccurs="0" />
+              <xs:element name="operatii_denumire" msprop:Generator_ColumnVarNameInTable="columnoperatii_denumire" msprop:Generator_ColumnPropNameInRow="operatii_denumire" msprop:Generator_ColumnPropNameInTable="operatii_denumireColumn" msprop:Generator_UserColumnName="operatii_denumire" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="specializari_denumire" msprop:Generator_ColumnVarNameInTable="columnspecializari_denumire" msprop:Generator_ColumnPropNameInRow="specializari_denumire" msprop:Generator_ColumnPropNameInTable="specializari_denumireColumn" msprop:Generator_UserColumnName="specializari_denumire" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Balanta" msprop:Generator_TableClassName="BalantaDataTable" msprop:Generator_TableVarName="tableBalanta" msprop:Generator_RowChangedName="BalantaRowChanged" msprop:Generator_TablePropName="Balanta" msprop:Generator_RowDeletingName="BalantaRowDeleting" msprop:Generator_RowChangingName="BalantaRowChanging" msprop:Generator_RowEvHandlerName="BalantaRowChangeEventHandler" msprop:Generator_RowDeletedName="BalantaRowDeleted" msprop:Generator_RowClassName="BalantaRow" msprop:Generator_UserTableName="Balanta" msprop:Generator_RowEvArgName="BalantaRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="data_inceput_an" msprop:Generator_ColumnVarNameInTable="columndata_inceput_an" msprop:Generator_ColumnPropNameInRow="data_inceput_an" msprop:Generator_ColumnPropNameInTable="data_inceput_anColumn" msprop:Generator_UserColumnName="data_inceput_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="data_sfarsit_an" msprop:Generator_ColumnVarNameInTable="columndata_sfarsit_an" msprop:Generator_ColumnPropNameInRow="data_sfarsit_an" msprop:Generator_ColumnPropNameInTable="data_sfarsit_anColumn" msprop:Generator_UserColumnName="data_sfarsit_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="denumire" msprop:Generator_ColumnVarNameInTable="columndenumire" msprop:Generator_ColumnPropNameInRow="denumire" msprop:Generator_ColumnPropNameInTable="denumireColumn" msprop:Generator_UserColumnName="denumire" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="numar_ani" msprop:Generator_ColumnVarNameInTable="columnnumar_ani" msprop:Generator_ColumnPropNameInRow="numar_ani" msprop:Generator_ColumnPropNameInTable="numar_aniColumn" msprop:Generator_UserColumnName="numar_ani" type="xs:int" minOccurs="0" />
+              <xs:element name="an_specializare" msprop:Generator_ColumnVarNameInTable="columnan_specializare" msprop:Generator_ColumnPropNameInRow="an_specializare" msprop:Generator_ColumnPropNameInTable="an_specializareColumn" msprop:Generator_UserColumnName="an_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="nr_studenti_initial" msprop:Generator_ColumnVarNameInTable="columnnr_studenti_initial" msprop:Generator_ColumnPropNameInRow="nr_studenti_initial" msprop:Generator_ColumnPropNameInTable="nr_studenti_initialColumn" msprop:Generator_UserColumnName="nr_studenti_initial" type="xs:int" minOccurs="0" />
+              <xs:element name="nr_transferuri" msprop:Generator_ColumnVarNameInTable="columnnr_transferuri" msprop:Generator_ColumnPropNameInRow="nr_transferuri" msprop:Generator_ColumnPropNameInTable="nr_transferuriColumn" msprop:Generator_UserColumnName="nr_transferuri" type="xs:int" minOccurs="0" />
+              <xs:element name="nr_abandonuri" msprop:Generator_ColumnVarNameInTable="columnnr_abandonuri" msprop:Generator_ColumnPropNameInRow="nr_abandonuri" msprop:Generator_ColumnPropNameInTable="nr_abandonuriColumn" msprop:Generator_UserColumnName="nr_abandonuri" type="xs:int" minOccurs="0" />
+              <xs:element name="nr_studenti_final" msprop:Generator_ColumnVarNameInTable="columnnr_studenti_final" msprop:Generator_ColumnPropNameInRow="nr_studenti_final" msprop:Generator_ColumnPropNameInTable="nr_studenti_finalColumn" msprop:Generator_UserColumnName="nr_studenti_final" type="xs:int" minOccurs="0" />
+              <xs:element name="id_specializare" msprop:Generator_ColumnVarNameInTable="columnid_specializare" msprop:Generator_ColumnPropNameInRow="id_specializare" msprop:Generator_ColumnPropNameInTable="id_specializareColumn" msprop:Generator_UserColumnName="id_specializare" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Intrari" msprop:Generator_TableClassName="IntrariDataTable" msprop:Generator_TableVarName="tableIntrari" msprop:Generator_RowChangedName="IntrariRowChanged" msprop:Generator_TablePropName="Intrari" msprop:Generator_RowDeletingName="IntrariRowDeleting" msprop:Generator_RowChangingName="IntrariRowChanging" msprop:Generator_RowEvHandlerName="IntrariRowChangeEventHandler" msprop:Generator_RowDeletedName="IntrariRowDeleted" msprop:Generator_RowClassName="IntrariRow" msprop:Generator_UserTableName="Intrari" msprop:Generator_RowEvArgName="IntrariRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="data_inceput_an" msprop:Generator_ColumnVarNameInTable="columndata_inceput_an" msprop:Generator_ColumnPropNameInRow="data_inceput_an" msprop:Generator_ColumnPropNameInTable="data_inceput_anColumn" msprop:Generator_UserColumnName="data_inceput_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="data_sfarsit_an" msprop:Generator_ColumnVarNameInTable="columndata_sfarsit_an" msprop:Generator_ColumnPropNameInRow="data_sfarsit_an" msprop:Generator_ColumnPropNameInTable="data_sfarsit_anColumn" msprop:Generator_UserColumnName="data_sfarsit_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id_specializare" msprop:Generator_ColumnVarNameInTable="columnid_specializare" msprop:Generator_ColumnPropNameInRow="id_specializare" msprop:Generator_ColumnPropNameInTable="id_specializareColumn" msprop:Generator_UserColumnName="id_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="an_specializare" msprop:Generator_ColumnVarNameInTable="columnan_specializare" msprop:Generator_ColumnPropNameInRow="an_specializare" msprop:Generator_ColumnPropNameInTable="an_specializareColumn" msprop:Generator_UserColumnName="an_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Iesiri" msprop:Generator_TableClassName="IesiriDataTable" msprop:Generator_TableVarName="tableIesiri" msprop:Generator_RowChangedName="IesiriRowChanged" msprop:Generator_TablePropName="Iesiri" msprop:Generator_RowDeletingName="IesiriRowDeleting" msprop:Generator_RowChangingName="IesiriRowChanging" msprop:Generator_RowEvHandlerName="IesiriRowChangeEventHandler" msprop:Generator_RowDeletedName="IesiriRowDeleted" msprop:Generator_RowClassName="IesiriRow" msprop:Generator_UserTableName="Iesiri" msprop:Generator_RowEvArgName="IesiriRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="data_inceput_an" msprop:Generator_ColumnVarNameInTable="columndata_inceput_an" msprop:Generator_ColumnPropNameInRow="data_inceput_an" msprop:Generator_ColumnPropNameInTable="data_inceput_anColumn" msprop:Generator_UserColumnName="data_inceput_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="data_sfarsit_an" msprop:Generator_ColumnVarNameInTable="columndata_sfarsit_an" msprop:Generator_ColumnPropNameInRow="data_sfarsit_an" msprop:Generator_ColumnPropNameInTable="data_sfarsit_anColumn" msprop:Generator_UserColumnName="data_sfarsit_an" type="xs:dateTime" minOccurs="0" />
+              <xs:element name="id_specializare" msprop:Generator_ColumnVarNameInTable="columnid_specializare" msprop:Generator_ColumnPropNameInRow="id_specializare" msprop:Generator_ColumnPropNameInTable="id_specializareColumn" msprop:Generator_UserColumnName="id_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="an_specializare" msprop:Generator_ColumnVarNameInTable="columnan_specializare" msprop:Generator_ColumnPropNameInRow="an_specializare" msprop:Generator_ColumnPropNameInTable="an_specializareColumn" msprop:Generator_UserColumnName="an_specializare" type="xs:int" minOccurs="0" />
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:double" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

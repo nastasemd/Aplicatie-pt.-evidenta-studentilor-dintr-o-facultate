@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="graficTransferDS" targetNamespace="http://tempuri.org/graficTransferDS.xsd" xmlns:mstns="http://tempuri.org/graficTransferDS.xsd" xmlns="http://tempuri.org/graficTransferDS.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="1" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proiectConnectionString" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proiectConnectionString (Settings)" PropertyReference="ApplicationSettings.NichiforVlad.Properties.Settings.GlobalReference.Default.proiectConnectionString" Provider="System.Data.OleDb" />
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="proiectConnectionString1" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="proiectConnectionString1 (Settings)" PropertyReference="ApplicationSettings.NichiforVlad.Properties.Settings.GlobalReference.Default.proiectConnectionString1" Provider="System.Data.OleDb" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="statTransferuriTableAdapter" GeneratorDataComponentClassName="statTransferuriTableAdapter" Name="statTransferuri" UserDataComponentName="statTransferuriTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="proiectConnectionString1 (Settings)" DbObjectName="Specializari" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>SELECT        s.denumire, COUNT(t.an_specializare) AS NrTransferuri
+FROM            (Transfer t INNER JOIN
+                         Specializari s ON t.id_specializare = s.id_specializare)
+GROUP BY s.denumire</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="denumire" DataSetColumn="denumire" />
+              <Mapping SourceColumn="NrTransferuri" DataSetColumn="NrTransferuri" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="graficTransferDS" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="graficTransferDS" msprop:Generator_UserDSName="graficTransferDS">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="statTransferuri" msprop:Generator_TableClassName="statTransferuriDataTable" msprop:Generator_TableVarName="tablestatTransferuri" msprop:Generator_RowChangedName="statTransferuriRowChanged" msprop:Generator_TablePropName="statTransferuri" msprop:Generator_RowDeletingName="statTransferuriRowDeleting" msprop:Generator_RowChangingName="statTransferuriRowChanging" msprop:Generator_RowEvHandlerName="statTransferuriRowChangeEventHandler" msprop:Generator_RowDeletedName="statTransferuriRowDeleted" msprop:Generator_RowClassName="statTransferuriRow" msprop:Generator_UserTableName="statTransferuri" msprop:Generator_RowEvArgName="statTransferuriRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="denumire" msprop:Generator_ColumnVarNameInTable="columndenumire" msprop:Generator_ColumnPropNameInRow="denumire" msprop:Generator_ColumnPropNameInTable="denumireColumn" msprop:Generator_UserColumnName="denumire" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="255" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
+              <xs:element name="NrTransferuri" msprop:Generator_ColumnVarNameInTable="columnNrTransferuri" msprop:Generator_ColumnPropNameInRow="NrTransferuri" msprop:Generator_ColumnPropNameInTable="NrTransferuriColumn" msprop:Generator_UserColumnName="NrTransferuri" type="xs:int" minOccurs="0" />
+              <xs:element name="Procent" msprop:Generator_ColumnVarNameInTable="columnProcent" msprop:Generator_ColumnPropNameInRow="Procent" msprop:Generator_ColumnPropNameInTable="ProcentColumn" msprop:Generator_UserColumnName="Procent" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
